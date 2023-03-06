@@ -1,6 +1,7 @@
 
 enum FakeError: Error{
     case NilError(String)
+
 }
 
 
@@ -37,7 +38,6 @@ print(food!)
 guard let nameOfPerson = name else {
     print(name)
     throw FakeError.NilError("An Error occured")
-    
 }
 
 // 4. Use of Nil Coalescene Operator ??
@@ -53,6 +53,9 @@ print(assignedName)
 
 // This is a Single Line comment
  
+
+
+
 
 
 
