@@ -17,8 +17,6 @@ var food: String? = "EBA"
  1. Optional binding
  */
 
-
-
 if let nameOfPerson = name{
     print(nameOfPerson)
 } else {
@@ -53,9 +51,6 @@ print(assignedName)
 
 // This is a Single Line comment
  
-
-
-
 
 
 
