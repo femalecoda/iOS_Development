@@ -1,6 +1,8 @@
-
+/*
+ variables and constants
 // keyword: var is modifiable or Mutable
-// keyword: let is constant ot Immutable
+keyword: let is constant ot Immutable
+ */
 
 var  age = 20     // implicity declaration
 
