@@ -58,7 +58,7 @@ func composeShape (called name: String, and area: (Int,Int) -> Int) {
 composeShape (called: "square", and: calculateArea)
 
  /*
-  METHOD ARE FUNCYION THAT LIVE IN A CLASS OR STRUCTS
+  METHOD ARE FUNCTION THAT LIVE IN A CLASS OR STRUCTS
 class enables us to group funtionalites and properties in unites
 Structs is like a class, it enable us to store untionalites and properties in a method
 
